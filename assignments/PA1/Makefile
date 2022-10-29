@@ -17,8 +17,8 @@ stack.s: stack.cl atoi.cl
 	${CLASSDIR}/bin/coolc stack.cl atoi.cl 
 
 test:	compile
-	@echo stack.test
+	echo stack.test
 	${CLASSDIR}/bin/spim -file stack.s < stack.test
 
 clean :
-	rm -f *.s core *~
+	rm -f *.s core *~ *.out
