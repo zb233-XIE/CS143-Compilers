@@ -14,8 +14,9 @@ Since the avaliable videos are **relatively short**,
 - If you are self-learning, you may need to spend more time on the basic theory by reading books(eg.*"Compilers: Principles, Techniques, and Tools"*) etc.
 
 ### Progress
- - [x] PA1 : Lexer
- - [ ] PA2 : Parser
- - [ ] PA3 : Static Sementics
- - [ ] PA4 : Code Generator
- - [ ] PA5 : Extra Credit : Optimization
+ - [x] PA1 : Get familiar with Cool
+ - [x] PA2 : Lexer
+ - [ ] PA3 : Parser
+ - [ ] PA4 : Static Sementics
+ - [ ] PA5 : Code Generator
+ - [ ] Extra Credit : Optimization
